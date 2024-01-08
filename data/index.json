@@ -6,21 +6,21 @@
         {
             "id": 1,
             "year": 2019,
-            "description": "I got my NCS",
+            "description": "Matriculated with a start to my IT interest as I took the subjects of CAT.",
             "place": "Belgravia High School",
-            "type": "certificate"
+            "type": "certificate.National Senior Certificate"
         },
         {
             "id": 2,
             "year": 2020,
-            "description": "I got my certificates on Advanced to Python",
+            "description": "Following year i continued my studies and went on to learn about Networking, also along side with IT Essentials.",
             "place": "College of Cape Town",
             "type": "certificate"
         },
         {
             "id": 3,
             "year": 2023,
-            "description": "Stared and still present",
+            "description": "Started and still present",
             "place": "Life Choices Academy",
             "type": "certificate"
         }
@@ -43,8 +43,8 @@
             "experience": "Novice"
         },
         {
-            "title": "Gamer",
-            "experience": "Literally the Best"
+            "title": "3D Creation",
+            "experience": "Beginner"
         }
     ],
     "testimonials": [
