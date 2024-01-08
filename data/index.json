@@ -1,0 +1,113 @@
+{
+    "about": [
+        "Hello I am Muttaqeen Slamat,I am an Aspiring Web Developer, who have a passion for everything IT related. The wonders of technology always intrigued me and built my love for coding. I am open minded and an eager learner, always humbled by the vast world of web development and design. My creativity fuels my passion for crafting digital experiences that resonate with users. When I'm not immersed in the world of code, I'm a dedicated gamer, exploring different realms and uncovering exciting adventures. I showcase my journey in the world of web development and share the projects that define my creative path."
+    ],
+    "education": [
+        {
+            "id": 1,
+            "year": 2019,
+            "description": "I got my NCS",
+            "place": "Belgravia High School",
+            "type": "certificate"
+        },
+        {
+            "id": 2,
+            "year": 2020,
+            "description": "I got my certificates on Advanced to Python",
+            "place": "College of Cape Town",
+            "type": "certificate"
+        },
+        {
+            "id": 3,
+            "year": 2023,
+            "description": "Stared and still present",
+            "place": "Life Choices Academy",
+            "type": "certificate"
+        }
+    ],
+    "skills": [
+        {
+            "title": "HTML",
+            "experience": "Novice"
+        },
+        {
+            "title": "CSS",
+            "experience": "Novice"
+        },
+        {
+            "title": "Bootstrap",
+            "experience": "Novice"
+        },
+        {
+            "title": "JavaScript",
+            "experience": "Novice"
+        },
+        {
+            "title": "Gamer",
+            "experience": "Literally the Best"
+        }
+    ],
+    "testimonials": [
+        {
+            "name": "Joel",
+            "surname": "Mukanya",
+            "quotes": "Muttaqeen is a creative, observer, and well-behaved individual who always prioritizes his work. He excels in collaborating with others and has gained proficiency in HTML5, CSS, and Bootstrap. ",
+            "profile": "https://i.postimg.cc/SRBL8qnC/rachel.jpg"
+        },
+        {
+            "name": "Al-Muakhir",
+            "surname": "Jones",
+            "quotes": "Muttaqeen is a creative, observer, and well-behaved individual who always prioritizes his work. He excels in collaborating with others and has gained proficiency in HTML5, CSS, and Bootstrap. ",
+            "profile": "https://i.postimg.cc/DyGHNwPV/ruth.jpg"
+        },
+        {
+            "name": "Carl",
+            "surname": "James",
+            "quotes": "Muttaqeen is a creative, observer, and well-behaved individual who always prioritizes his work. He excels in collaborating with others and has gained proficiency in HTML5, CSS, and Bootstrap. ",
+            "profile": "https://i.postimg.cc/3rZ0H0D8/profile-Image.png"
+        },
+        {
+            "name": "Jay-donn",
+            "surname": "Hendriks",
+            "quotes": "Muttaqeen is a creative, observer, and well-behaved individual who always prioritizes his work. He excels in collaborating with others and has gained proficiency in HTML5, CSS, and Bootstrap. ",
+            "profile": "https://i.postimg.cc/3rZ0H0D8/profile-Image.png"
+        }
+    ],
+    "projects":[
+        {
+            "name": "Ecommerce",
+            "description": "First Ecommerce project using css and html",
+            "image": "https://i.postimg.cc/tTF7RMr1/todoList.png",
+            "gitHub": "https://github.com/Muttaqeen-Slamat/Ecommerce.git",
+            "netlify": "https://muttaqeen-ecommerce.netlify.app/"
+        },
+        {
+            "name": "Keyboard",
+            "description": "JavaScript css and html working",
+            "image": "https://i.postimg.cc/vH8q91JB/reg-Exp-Calculator.png",
+            "gitHub": "https://github.com/Muttaqeen-Slamat/KeyboardProject.git",
+            "netlify": "https://muttaqeen-keyboardproject.netlify.app/"
+        },
+        {
+            "name": "Calculator",
+            "description": "Working i think can't remember",
+            "image": "https://i.postimg.cc/k4tqF1Ln/message-Believer-Circle.png",
+            "gitHub": "https://github.com/Muttaqeen-Slamat/CalculatorProject.git",
+            "netlify": "https://muttaqeen-calculatorproject.netlify.app/"
+        },
+        {
+            "name": "Mobicare Clone",
+            "description": "First Clone Project",
+            "image": "https://i.postimg.cc/g2YVCx3R/JTLaptop.png",
+            "gitHub": "https://github.com/Muttaqeen-Slamat/BootstrapWeek1.git",
+            "netlify": "https://muttaqeen-mobicareclone.netlify.app/"
+        },
+        {
+            "name": "JS Portfolio",
+            "description": "Recent eomp",
+            "image": "https://i.postimg.cc/W4m3tkbb/js-Portfolio.png",
+            "gitHub": "https://github.com/Muttaqeen-Slamat/JS-EOMP.git",
+            "netlify": "https://clic-kyboards.netlify.app/"
+        }
+    ]
+}
