@@ -31,23 +31,33 @@
     "skills": [
         {
             "title": "HTML",
-            "experience": "Novice"
+            "experience": "Novice",
+            "image": "https://drive.google.com/uc?id=1sx3FcaqYOAxwvn5BauQh0C1JZFLTjNwq"
         },
         {
             "title": "CSS",
-            "experience": "Novice"
+            "experience": "Novice",
+            "image": "https://drive.google.com/uc?id=1Dl7DPyVB_mghdFA6kv3C_uBakSgI1L17"
         },
         {
             "title": "Bootstrap",
-            "experience": "Novice"
+            "experience": "Novice",
+            "image": "https://drive.google.com/uc?id=1cSLXul26sqJnzJwZc9y27i7l4w41XXrE"
         },
         {
             "title": "JavaScript",
-            "experience": "Novice"
+            "experience": "Novice",
+            "image": "https://drive.google.com/uc?id=1h8bstpbrN2OiZ36QmCNuLBzydE8d5DCX"
+        },
+        {
+            "title": "Vue",
+            "experience": "Beginner",
+            "image": "https://drive.google.com/uc?id=1u14_hsYzyGtXm-tRHc-vOrKjulFmQJTW"
         },
         {
             "title": "3D Creation",
-            "experience": "Beginner"
+            "experience": "Beginner",
+            "image": "https://drive.google.com/uc?id=1l19KnNBf-I0DKnTgyQjp07sks6F1Kvf7"
         }
     ],
     "testimonials": [
