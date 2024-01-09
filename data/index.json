@@ -6,6 +6,7 @@
         {
             "id": 1,
             "year": 2019,
+            "logo":"https://drive.google.com/uc?id=1Bg_L0rEPdRFblbnJzCFI-kU6h7USsFI_",
             "description": "Matriculated with a start to my IT interest as I took the subjects of CAT.",
             "place": "Belgravia High School",
             "type": "certificate.National Senior Certificate"
@@ -13,6 +14,7 @@
         {
             "id": 2,
             "year": 2020,
+            "logo":"https://drive.google.com/uc?id=1cf3w_WF9ieqwVxN2NmWQ0HGwsEv119O6",
             "description": "Following year i continued my studies and went on to learn about Networking, also along side with IT Essentials.",
             "place": "College of Cape Town",
             "type": "certificate"
@@ -20,6 +22,7 @@
         {
             "id": 3,
             "year": 2023,
+            "logo":"https://drive.google.com/uc?id=1ISSvct2pIrnUYpyhVYL6CF2Uv4800Wew",
             "description": "Started and still present",
             "place": "Life Choices Academy",
             "type": "certificate"
