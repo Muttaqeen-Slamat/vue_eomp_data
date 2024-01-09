@@ -6,6 +6,7 @@
         {
             "id": 1,
             "year": 2019,
+            "logo":"https://drive.google.com/uc?id=1Bg_L0rEPdRFblbnJzCFI-kU6h7USsFI_",
             "description": "Matriculated with a start to my IT interest as I took the subjects of CAT.",
             "place": "Belgravia High School",
             "type": "certificate.National Senior Certificate"
@@ -13,6 +14,7 @@
         {
             "id": 2,
             "year": 2020,
+            "logo":"https://drive.google.com/uc?id=1cf3w_WF9ieqwVxN2NmWQ0HGwsEv119O6",
             "description": "Following year i continued my studies and went on to learn about Networking, also along side with IT Essentials.",
             "place": "College of Cape Town",
             "type": "certificate"
@@ -20,6 +22,7 @@
         {
             "id": 3,
             "year": 2023,
+            "logo":"https://drive.google.com/uc?id=1ISSvct2pIrnUYpyhVYL6CF2Uv4800Wew",
             "description": "Started and still present",
             "place": "Life Choices Academy",
             "type": "certificate"
@@ -28,23 +31,33 @@
     "skills": [
         {
             "title": "HTML",
-            "experience": "Novice"
+            "experience": "Novice",
+            "image": "https://drive.google.com/uc?id=1sx3FcaqYOAxwvn5BauQh0C1JZFLTjNwq"
         },
         {
             "title": "CSS",
-            "experience": "Novice"
+            "experience": "Novice",
+            "image": "https://drive.google.com/uc?id=1Dl7DPyVB_mghdFA6kv3C_uBakSgI1L17"
         },
         {
             "title": "Bootstrap",
-            "experience": "Novice"
+            "experience": "Novice",
+            "image": "https://drive.google.com/uc?id=1cSLXul26sqJnzJwZc9y27i7l4w41XXrE"
         },
         {
             "title": "JavaScript",
-            "experience": "Novice"
+            "experience": "Novice",
+            "image": "https://drive.google.com/uc?id=1h8bstpbrN2OiZ36QmCNuLBzydE8d5DCX"
         },
         {
-            "title": "3D Creation",
-            "experience": "Beginner"
+            "title": "Vue",
+            "experience": "Beginner",
+            "image": "https://drive.google.com/uc?id=1u14_hsYzyGtXm-tRHc-vOrKjulFmQJTW"
+        },
+        {
+            "title": "Blender 3D Renders",
+            "experience": "Beginner",
+            "image": "https://drive.google.com/uc?id=1l19KnNBf-I0DKnTgyQjp07sks6F1Kvf7"
         }
     ],
     "testimonials": [
@@ -77,35 +90,35 @@
         {
             "name": "Ecommerce",
             "description": "First Ecommerce project using css and html",
-            "image": "https://i.postimg.cc/tTF7RMr1/todoList.png",
+            "image": "https://drive.google.com/uc?id=1bIMzHkA50rapShqcINtgwW6EUzR3NQ_I",
             "gitHub": "https://github.com/Muttaqeen-Slamat/Ecommerce.git",
             "netlify": "https://muttaqeen-ecommerce.netlify.app/"
         },
         {
             "name": "Keyboard",
             "description": "JavaScript css and html working",
-            "image": "https://i.postimg.cc/vH8q91JB/reg-Exp-Calculator.png",
+            "image": "https://drive.google.com/uc?id=1H2Vn0bBw6aOMzw-6hTHyLFqA-_dO2s0Y",
             "gitHub": "https://github.com/Muttaqeen-Slamat/KeyboardProject.git",
             "netlify": "https://muttaqeen-keyboardproject.netlify.app/"
         },
         {
             "name": "Calculator",
-            "description": "Working i think can't remember",
-            "image": "https://i.postimg.cc/k4tqF1Ln/message-Believer-Circle.png",
+            "description": "Working i think cant remember",
+            "image": "https://drive.google.com/uc?id=1YQflrw6qyNA-vMqUWLEX5PgRQjI5mIU4",
             "gitHub": "https://github.com/Muttaqeen-Slamat/CalculatorProject.git",
             "netlify": "https://muttaqeen-calculatorproject.netlify.app/"
         },
         {
             "name": "Mobicare Clone",
             "description": "First Clone Project",
-            "image": "https://i.postimg.cc/g2YVCx3R/JTLaptop.png",
+            "image": "https://drive.google.com/uc?id=1w27bq1V8UOohsKCTQN4Rqo8qU1uE-sa7",
             "gitHub": "https://github.com/Muttaqeen-Slamat/BootstrapWeek1.git",
             "netlify": "https://muttaqeen-mobicareclone.netlify.app/"
         },
         {
             "name": "JS Portfolio",
             "description": "Recent eomp",
-            "image": "https://i.postimg.cc/W4m3tkbb/js-Portfolio.png",
+            "image": "https://drive.google.com/uc?id=18WTLPA7nxiIyd0oShpfH6k3DHrtM-JRH",
             "gitHub": "https://github.com/Muttaqeen-Slamat/JS-EOMP.git",
             "netlify": "https://clic-kyboards.netlify.app/"
         }
