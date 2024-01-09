@@ -105,7 +105,8 @@
         {
             "name": "JS Portfolio",
             "description": "Recent eomp",
-            "image": "https://i.postimg.cc/W4m3tkbb/js-Portfolio.png",
+            // "image": "https://drive.google.com/file/d/18WTLPA7nxiIyd0oShpfH6k3DHrtM-JRH/view?usp=drive_link",
+            "image": "https://drive.google.com/uc?id=18WTLPA7nxiIyd0oShpfH6k3DHrtM-JRH",
             "gitHub": "https://github.com/Muttaqeen-Slamat/JS-EOMP.git",
             "netlify": "https://clic-kyboards.netlify.app/"
         }
