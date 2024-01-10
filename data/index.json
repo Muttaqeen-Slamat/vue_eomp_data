@@ -116,6 +116,13 @@
             "netlify": "https://muttaqeen-mobicareclone.netlify.app/"
         },
         {
+            "name": "First Portfolio",
+            "description": "The first self portfolio",  
+            "image": "https://drive.google.com/uc?id=19YDktXJGFYcovRnFtee7krr-3jqEbdNT",
+            "gitHub": "https://github.com/Muttaqeen-Slamat/Muttaqeen-EOMP-Portfolio.git",
+            "netlify": "https://muttaqeen-eomp-portfolio.netlify.app/"
+        },
+        {
             "name": "JS Portfolio",
             "description": "Recent eomp",
             "image": "https://drive.google.com/uc?id=18WTLPA7nxiIyd0oShpfH6k3DHrtM-JRH",
