@@ -97,14 +97,14 @@
         {
             "name": "Keyboard",
             "description": "JavaScript css and html working",
-            "image": "https://drive.google.com/uc?id=1H2Vn0bBw6aOMzw-6hTHyLFqA-_dO2s0Y",
+            "image": "https://i.postimg.cc/Dzdbrh0h/Screenshot-2024-01-09-103151.png",
             "gitHub": "https://github.com/Muttaqeen-Slamat/KeyboardProject.git",
             "netlify": "https://muttaqeen-keyboardproject.netlify.app/"
         },
         {
             "name": "Calculator",
             "description": "Working i think cant remember",
-            "image": "https://drive.google.com/uc?id=1YQflrw6qyNA-vMqUWLEX5PgRQjI5mIU4",
+            "image": "https://i.postimg.cc/qvKK7ydz/Screenshot-2024-01-09-103202.png",
             "gitHub": "https://github.com/Muttaqeen-Slamat/CalculatorProject.git",
             "netlify": "https://muttaqeen-calculatorproject.netlify.app/"
         },
@@ -118,14 +118,14 @@
         {
             "name": "First Portfolio",
             "description": "The first self portfolio",  
-            "image": "https://drive.google.com/uc?id=19YDktXJGFYcovRnFtee7krr-3jqEbdNT",
+            "image": "https://i.postimg.cc/L47FVZr9/Screenshot-2024-01-10-113016.png",
             "gitHub": "https://github.com/Muttaqeen-Slamat/Muttaqeen-EOMP-Portfolio.git",
             "netlify": "https://muttaqeen-eomp-portfolio.netlify.app/"
         },
         {
             "name": "JS Portfolio",
             "description": "Recent eomp",
-            "image": "https://drive.google.com/uc?id=18WTLPA7nxiIyd0oShpfH6k3DHrtM-JRH",
+            "image": "https://i.postimg.cc/fbh9Syw5/Screenshot-2024-01-09-094435.png",
             "gitHub": "https://github.com/Muttaqeen-Slamat/JS-EOMP.git",
             "netlify": "https://clic-kyboards.netlify.app/"
         }
