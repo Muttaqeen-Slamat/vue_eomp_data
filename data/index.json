@@ -145,7 +145,7 @@
         {
             "id": 4,
             "name": "Mobicare Clone",
-            "description": "First Clone Project",
+            "description": "First Clone Project, done on HTML, Css and Bootstrap",
             "image": "https://i.postimg.cc/GmGtpnky/First-clone.png",
             "gitHub": "https://github.com/Muttaqeen-Slamat/BootstrapWeek1.git",
             "netlify": "https://muttaqeen-mobicareclone.netlify.app/"
