@@ -5,7 +5,7 @@
     "education": [
         {
             "id": 1,
-            "year": 2019,
+            "year": "2015-2019",
             "logo":"https://i.postimg.cc/GtnJcK43/download-removebg-preview.png",
             "description": "Matriculated with a start to my IT interest as I took the subjects of CAT. Gained the skill of learning HTML at the school and with that help my interest grow in coding",
             "place": "Belgravia High School",
@@ -30,31 +30,37 @@
     ],
     "skills": [
         {
+            "id": 1,
             "title": "HTML",
             "experience": "Novice",
             "image": "https://i.postimg.cc/sDNF2RDn/HTML5-logo-and-wordmark-svg.png"
         },
         {
+            "id": 2,
             "title": "CSS",
             "experience": "Novice",
             "image": "https://i.postimg.cc/CK5ctZVJ/pngegg-3.png"
         },
         {
+            "id": 3,
             "title": "Bootstrap",
             "experience": "Novice",
             "image": "https://i.postimg.cc/bwW3bQXS/Bootstrap-logo1-svg.png"
         },
         {
+            "id": 4,
             "title": "JavaScript",
             "experience": "Novice",
             "image": "https://i.postimg.cc/g2Cfvqh8/javascript-736400-640.png"
         },
         {
+            "id": 5,
             "title": "Vue",
             "experience": "Beginner",
             "image": "https://i.postimg.cc/VL6qFxBP/2030502.webp"
         },
         {
+            "id": 6,
             "title": "Blender 3D Renders",
             "experience": "Beginner",
             "image": "https://i.postimg.cc/9F8VKnRh/Blender-logo-no-text-svg.png"
@@ -62,42 +68,49 @@
     ],
     "testimonials": [
         {
+            "id": 1,
             "name": "Joel",
             "surname": "Mukanya",
             "quotes": "Muttaqeen is a creative, observer, and well-behaved individual who always prioritizes his work. He excels in collaborating with others and has gained proficiency in HTML5, CSS, and Bootstrap. ",
             "profile": "https://i.postimg.cc/SK2N2FF4/Lecturer.jpg"
         },
         {
+            "id": 2,
             "name": "Al-Muakhir",
             "surname": "Jones",
             "quotes": "Working with Muttaqeen was an absolute pleasure. Their exceptional coding skills and creativity brought our website to life. They delivered on time, communicated effectively, and exceeded our expectations. We highly recommend Muttaqeen for any web development project.",
             "profile": "https://i.postimg.cc/N0kYrgJW/20231009-111030.jpg"
         },
         {
+            "id": 3,
             "name": "Carl",
             "surname": "James",
             "quotes": "Muttaqeen, a standout student at Life Choices Academy, is a top-tier front-end developer known for his meticulous attention to detail. His projects consistently reach new levels of sophistication and innovation. Beyond technical prowess, Muttaqeeen excels in communication, seamlessly aligning his work with broader project goals.",
             "profile": "https://i.postimg.cc/bw4v8bqy/Screenshot-2024-01-10-172925.png"
         },
         {
+            "id": 4,
             "name": "Jay-donn",
             "surname": "Hendriks",
             "quotes": "Muttaqeen is a true champion of helping and creating opportunities for others. His selflessness, keen eye for potential, and unwavering dedication to making a positive impact have transformed lives. With infectious enthusiasm, he inspire and empower, turning setbacks into stepping stones. Muttaqeen is a beacon of hope in a world that needs more kindness and opportunity creators, leaving an indelible mark on those fortunate enough to know him.",
             "profile": "https://i.postimg.cc/8PT1NfZL/228.jpg"
         },
         {
+            "id": 5,
             "name": "Razien",
             "surname": "Mackenzie",
             "quotes": "I've had the pleasure of working with Muttaqeen for quite some time now and I must say so far he has been an amazing asset to the team. His abilities is to adapt to any situation which makes him an excellent team player. He works extremelly well under pressure and always delivers the most inspirational work. ",
             "profile": "https://i.postimg.cc/9MgMZpx5/IMG-20231102-WA0003.jpg"
         },
         {
+            "id": 6,
             "name": "Rezaar",
             "surname": "Osman",
             "quotes": "Muttaqeen is very enthusiastic about the IT industry. He is really passionate about his work. He is also an excellent team player due to his high tolerance and positive attitude. He is incredibly easy to work with and has a very determined and focused personality when it comes to his work.",
             "profile": "https://i.postimg.cc/xCJ4rQJX/profile-portfolio.jpg"
         },
         {
+            "id": 7,
             "name": "Aakeefah",
             "surname": "Jones",
             "quotes": "Working with Muttaqeen was awesome! He really knows his stuff when it comes to web development. Super chill and easy to communicate with. I'd definitely team up with him again!",
@@ -106,6 +119,7 @@
     ],
     "projects":[
         {
+            "id": 1,
             "name": "Ecommerce",
             "description": "First Ecommerce project using HTML and CSS.",
             "image": "https://i.postimg.cc/sDBRVPpQ/First-Ecom.png",
@@ -113,6 +127,7 @@
             "netlify": "https://muttaqeen-ecommerce.netlify.app/"
         },
         {
+            "id": 2,
             "name": "Keyboard",
             "description": "Keyboard design made with HTML and CSS.",
             "image": "https://i.postimg.cc/Dzdbrh0h/Screenshot-2024-01-09-103151.png",
@@ -120,6 +135,7 @@
             "netlify": "https://muttaqeen-keyboardproject.netlify.app/"
         },
         {
+            "id": 3,
             "name": "Calculator",
             "description": "Working Calculator designed with HTML and CSS, Functionality from JavaScript.",
             "image": "https://i.postimg.cc/qvKK7ydz/Screenshot-2024-01-09-103202.png",
@@ -127,6 +143,7 @@
             "netlify": "https://muttaqeen-calculatorproject.netlify.app/"
         },
         {
+            "id": 4,
             "name": "Mobicare Clone",
             "description": "First Clone Project",
             "image": "https://i.postimg.cc/GmGtpnky/First-clone.png",
@@ -134,6 +151,7 @@
             "netlify": "https://muttaqeen-mobicareclone.netlify.app/"
         },
         {
+            "id": 5,
             "name": "First Portfolio",
             "description": "The First Self Portfolio",  
             "image": "https://i.postimg.cc/L47FVZr9/Screenshot-2024-01-10-113016.png",
@@ -141,6 +159,7 @@
             "netlify": "https://muttaqeen-eomp-portfolio.netlify.app/"
         },
         {
+            "id": 6,
             "name": "JS Portfolio",
             "description": "JavaScript Ecommerce with making use of local storage.",
             "image": "https://i.postimg.cc/fbh9Syw5/Screenshot-2024-01-09-094435.png",
