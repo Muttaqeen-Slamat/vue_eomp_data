@@ -7,7 +7,7 @@
             "id": 1,
             "year": "2015-2019",
             "logo":"https://i.postimg.cc/GtnJcK43/download-removebg-preview.png",
-            "description": "Matriculated with a start to my IT interest as I took the subjects of CAT. Gained the skill of learning HTML at the school and with that help my interest grow in coding",
+            "description": "Matriculated with a start to my IT interest as I took the subjects of CAT. Gained the skill of learning HTML at the school and with that help my interest grow in coding, other than CAT as my main subject I was enrolled in Mathematics, Geography and Life Sciences.",
             "place": "Belgravia High School",
             "type": "certificate.National Senior Certificate"
         },
@@ -15,15 +15,15 @@
             "id": 2,
             "year": 2020,
             "logo":"https://i.postimg.cc/7ZKVgSWX/college-of-cape-town-logo.webp",
-            "description": "Following year i continued my studies and went on to learn about Networking, also along side with IT Essentials.",
+            "description": "Following year I continued my studies and went on to learn about Networking, also along side with IT Essentials. While I was here, I familiarize my self with Cisco Packet Tracer and have the fundamentals of how the software works and its functions.",
             "place": "College of Cape Town",
             "type": "certificate"
         },
         {
             "id": 3,
-            "year": 2023,
+            "year": "2023-2024",
             "logo":"https://i.postimg.cc/CLHJx3C3/Lifechoices-logo-1.jpg",
-            "description": "Started in September of 2023 and currently still doing the course. Where I gaing the skills and knowledge on Css,Bootstrap, JavaScript and Vue.js. Not just learning more of coding but also helped with personal developement that helps alot not just in the workspace but to have a positive mindset naturally.",
+            "description": "Started in September of 2023 and currently still doing the course. Where I gain the skills and knowledge on Css,Bootstrap, JavaScript and Vue.js. Not just learning more of coding but also helped with personal development that helps a lot not just in the workspace but to have a positive mindset naturally.",
             "place": "Life Choices Academy",
             "type": "certificate"
         }
@@ -99,7 +99,7 @@
             "id": 5,
             "name": "Razien",
             "surname": "Mackenzie",
-            "quotes": "I've had the pleasure of working with Muttaqeen for quite some time now and I must say so far he has been an amazing asset to the team. His abilities is to adapt to any situation which makes him an excellent team player. He works extremelly well under pressure and always delivers the most inspirational work. ",
+            "quotes": "I've had the pleasure of working with Muttaqeen for quite some time now and I must say so far he has been an amazing asset to the team. His abilities is to adapt to any situation which makes him an excellent team player. He works extremely well under pressure and always delivers the most inspirational work. ",
             "profile": "https://i.postimg.cc/9MgMZpx5/IMG-20231102-WA0003.jpg"
         },
         {
