@@ -153,7 +153,7 @@
         {
             "id": 5,
             "name": "First Portfolio",
-            "description": "The First Self Portfolio",  
+            "description": "The First Self Portfolio made with HTML and Css",  
             "image": "https://i.postimg.cc/L47FVZr9/Screenshot-2024-01-10-113016.png",
             "gitHub": "https://github.com/Muttaqeen-Slamat/Muttaqeen-EOMP-Portfolio.git",
             "netlify": "https://muttaqeen-eomp-portfolio.netlify.app/"
@@ -177,7 +177,7 @@
         {
             "id": 8,
             "name": "Capstone Project",
-            "description": "Based of an E-Commerce, making use of all my skills learnt.",
+            "description": "Based off an E-Commerce, making use of all my skills learnt.",
             "image": "https://i.postimg.cc/kMxYx5Kt/Screenshot-2024-03-25-152249.png",
             "gitHub": "https://github.com/Muttaqeen-Slamat/CapStone-Muttaqeen.git",
             "netlify": "https://cap-compunit-mutta.web.app/"
