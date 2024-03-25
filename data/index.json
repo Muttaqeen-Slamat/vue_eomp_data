@@ -165,6 +165,14 @@
             "image": "https://i.postimg.cc/fbh9Syw5/Screenshot-2024-01-09-094435.png",
             "gitHub": "https://github.com/Muttaqeen-Slamat/JS-EOMP.git",
             "netlify": "https://clic-kyboards.netlify.app/"
+        },
+        {
+            "id": 7,
+            "name": "Capstone Project",
+            "description": "JavaScript Ecommerce with making use of local storage.",
+            "image": "https://i.postimg.cc/kMxYx5Kt/Screenshot-2024-03-25-152249.png",
+            "gitHub": "https://github.com/Muttaqeen-Slamat/CapStone-Muttaqeen.git",
+            "netlify": "https://cap-compunit-mutta.web.app/"
         }
     ]
 }
