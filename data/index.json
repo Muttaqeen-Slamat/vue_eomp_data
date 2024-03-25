@@ -169,7 +169,7 @@
         {
             "id": 7,
             "name": "Capstone Project",
-            "description": "JavaScript Ecommerce with making use of local storage.",
+            "description": "Based of an E-Commerce, making use of skills thus far",
             "image": "https://i.postimg.cc/kMxYx5Kt/Screenshot-2024-03-25-152249.png",
             "gitHub": "https://github.com/Muttaqeen-Slamat/CapStone-Muttaqeen.git",
             "netlify": "https://cap-compunit-mutta.web.app/"
