@@ -168,8 +168,16 @@
         },
         {
             "id": 7,
+            "name": "Node Project",
+            "description": "Make with a partner to test our team-player skills.",
+            "image": "https://i.postimg.cc/PrzYWTY6/Screenshot-2024-03-25-154927.png",
+            "gitHub": "https://github.com/Muttaqeen-Slamat/NODE-EOMP-WM.git",
+            "netlify": "https://eomp-node-wm.web.app/"
+        },
+        {
+            "id": 8,
             "name": "Capstone Project",
-            "description": "Based of an E-Commerce, making use of skills thus far",
+            "description": "Based of an E-Commerce, making use of all my skills learnt.",
             "image": "https://i.postimg.cc/kMxYx5Kt/Screenshot-2024-03-25-152249.png",
             "gitHub": "https://github.com/Muttaqeen-Slamat/CapStone-Muttaqeen.git",
             "netlify": "https://cap-compunit-mutta.web.app/"
