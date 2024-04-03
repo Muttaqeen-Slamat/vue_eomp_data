@@ -1,7 +1,7 @@
 {
     "about": [
 
-        "Hello, I am Muttaqeen Slamat, an Aspiring Web Developer with a profound passion for everything IT-related. The wonders of technology have always intrigued me and fueled my love for coding. I am open-minded and an eager learner, consistently humbled by the vast world of web development and design. My creativity drives my passion for crafting digital experiences that resonate with users. In addition to my primary focus on web development, I have a keen interest in 3D renders and animation. Exploring the realms of three-dimensional design adds an exciting dimension to my skill set. When not immersed in the world of code, I am a dedicated gamer, exploring different realms and uncovering exciting adventures. I showcase my journey in the world of web development and share the projects that define my creative path."    ],
+        "Hello, I am Muttaqeen Slamat, a 21 year old Aspiring Web Developer with a profound passion for everything IT-related. The wonders of technology have always intrigued me and fueled my love for coding. I am open-minded and an eager learner, consistently humbled by the vast world of web development and design. My creativity drives my passion for crafting digital experiences that resonate with users. In addition to my primary focus on web development, I have a keen interest in 3D renders and animation. Exploring the realms of three-dimensional design adds an exciting dimension to my skill set. When not immersed in the world of code, I am a dedicated gamer, exploring different realms and uncovering exciting adventures. I showcase my journey in the world of web development and share the projects that define my creative path."    ],
     "education": [
         {
             "id": 1,
@@ -32,37 +32,37 @@
         {
             "id": 1,
             "title": "HTML",
-            "experience": "Novice",
+            "experience": "Understanding of intermediate tags.",
             "image": "https://i.postimg.cc/4xWvLxcx/HTML5-logo-and-wordmark-svg-cropped-html.png"
         },
         {
             "id": 2,
             "title": "CSS",
-            "experience": "Novice",
+            "experience": "Can import fonts, know how to edit the root directories.",
             "image": "https://i.postimg.cc/dVjNqFTb/pngegg-3-cropped-css.png"
         },
         {
             "id": 3,
             "title": "Bootstrap",
-            "experience": "Novice",
+            "experience": "Know how to make use of each module and fix mobile responsiveness.",
             "image": "https://i.postimg.cc/bwW3bQXS/Bootstrap-logo1-svg.png"
         },
         {
             "id": 4,
             "title": "JavaScript",
-            "experience": "Novice",
+            "experience": "Know the foundation of Javascript, functions, data types and objects.",
             "image": "https://i.postimg.cc/g2Cfvqh8/javascript-736400-640.png"
         },
         {
             "id": 5,
             "title": "Vue",
-            "experience": "Beginner",
+            "experience": "Know how to make use of StoreX and the imports and exports including Javascript functionality.",
             "image": "https://i.postimg.cc/VL6qFxBP/2030502.webp"
         },
         {
             "id": 6,
             "title": "Blender 3D Renders",
-            "experience": "Beginner",
+            "experience": "Beginner, have a working in progress project that make use of sculpting,viewport and modeling.",
             "image": "https://i.postimg.cc/9F8VKnRh/Blender-logo-no-text-svg.png"
         }
     ],
