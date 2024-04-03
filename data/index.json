@@ -117,6 +117,17 @@
             "profile": "https://i.postimg.cc/3wkJ4y0W/20231118-123519.jpg"
         }
     ],
+    "experience":[
+        {
+            "id": 1,
+            "img": "https://i.postimg.cc/9FQN9McW/Lifechoices-logo-1.jpg",
+            "company": "Life Choices",
+            "role": "Intern",
+            "duration": "2023-current",
+            "desc":"",
+            "leave":""
+        }
+    ],
     "projects":[
         {
             "id": 1,
