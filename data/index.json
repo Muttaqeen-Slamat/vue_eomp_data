@@ -128,6 +128,14 @@
             "leave":""
         }
     ],
+    "badges":[
+        {
+            "id": 1,
+            "img": "https://i.postimg.cc/59Cpgf2G/osb-badge.png",
+            "title": "Operating System Basics",
+            "skill":"Intern in the Cyber Security department."
+        }
+    ],
     "projects":[
         {
             "id": 1,
